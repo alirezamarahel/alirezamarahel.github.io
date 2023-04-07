@@ -4,6 +4,8 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 comments: true
+redirect_from:
+  - /teaching.html
 ---
 
 ## Associate Instructor (full teaching responsibilities)
