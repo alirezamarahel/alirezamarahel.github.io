@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Associate Instructor (full teaching responsibilities)
-* Statistical Analysis For Business and Economics ([Syllabus]((https://alirezamarahel.github.io/E370_Syllabus_Fall2022.pdf))
+* Statistical Analysis For Business and Economics ([Syllabus]((https://alirezamarahel.github.io/E370_Syllabus_Fall2022.pdf ))
 
 
 ## Teaching Assistant
