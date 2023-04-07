@@ -6,4 +6,5 @@ author_profile: true
 comments: true
 ---
 
-Hello World. I am Alireza Marahel!
+I am a job market candidate at Indiana University. 
+My research interests are in Financial Econometrics, Machine Learning.
