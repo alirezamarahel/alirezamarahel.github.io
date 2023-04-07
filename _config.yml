@@ -20,7 +20,7 @@ title                    : "Alireza Marahel"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alireza Marahel"
-description              : "Alireza's Personal Website"
+description              : &description "Homepage for Alireza Marahel"
 url                      : "https://alirezamarahel.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alirezamarahel/alirezamarahel"
@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
