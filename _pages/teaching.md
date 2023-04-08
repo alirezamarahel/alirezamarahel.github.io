@@ -1,18 +1,19 @@
 ---
-title:  "Teaching"
-layout: archive
 permalink: /teaching/
+title: "Teaching"
 author_profile: true
-comments: true
 redirect_from:
   - /teaching.html
 ---
 
-## Associate Instructor (full teaching responsibilities)
-* Statistical Analysis For Business and Economics ([Syllabus](https://alirezamarahel.github.io/E370_Syllabus_Fall2022.pdf))
+## Undergraduate Statistics
+* Teaching Assistant, Spring 2015
+* School of Physical and Mathematical Sciences, Nanyang Technological University   
+* **Responsibility:** review the lecture material and lead discussion of tutorial questions in seminar format     
+* **Teaching Score:** **92** for class 1, **88.57** for class 2 (school mean: 83.83, school sd: 9.38)       
+* [Selected teaching evaluations](/teaching_evaluations) (complete evaluations available upon request)
 
 
-## Teaching Assistant
-* Statistical Analysis For Business and Economics, Undergraduate Course
-* Introduction to Microeconomics, Undergraduate Course
-* Introduction to Macroeconomics, Undergraduate Course
+## Other Relevant Experiences
+* Organizer, Empirical IO Reading Group at Boston University, 2018-2019
+* Mentor, RA-Mentor Program, Institute for Economic Development, 2022
