@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuqing Jin"
+title                    : "Alireza Marahel"
 title_separator          : "-"
-name                     : &name "Chuqing Jin"
-description              : &description "Homepage for Chuqing Jin"
-url                      : https://chuqingjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Alireza Marahel"
+description              : &description "Homepage for Alireza Marahel"
+url                      : https://alirezamarahel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chuqingjin/chuqingjin.github.io"
+repository               : "alirezamarahel/alirezamarahel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
