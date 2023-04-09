@@ -6,6 +6,7 @@ comments: true
 redirect_from:
   - /research.html
 ---
+<br>
 
 <p></p>
 <details>
