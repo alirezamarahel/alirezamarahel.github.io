@@ -3,7 +3,8 @@ title:  "Research"
 permalink: /research/
 author_profile: true
 comments: true
-
+redirect_from:
+  - /research.html
 ---
 
 
