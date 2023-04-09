@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc in the Tepper School of Business at Carnegie Mellon University. I recently completed my PhD in Economics at Indiana University. My research falls at the intersection of econometrics and finance. I apply a wide range of empirical methods, with a focus on using modified Markov regime switching to understand the behavior of asset pricing models in relation to macroeconomic uncertainties. In my current research, I create novel models to help understand how a positive feedback loop from the shocks to the market can improve the prediction of asset prices.   
+I am a PhD candidate in Economics at Indiana University Bloomington. My research falls at the intersection of econometrics and finance. I apply a wide range of empirical methods, with a focus on using modified Markov regime switching to understand the behavior of asset pricing models in relation to macroeconomic uncertainties. In my current research, I create novel models to help understand how a positive feedback loop from the shocks to the market can improve the prediction of asset prices.   
 <p></p>
 I am on the 2023/2024 Job Market and will be available for interviews.
 
