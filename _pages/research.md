@@ -7,14 +7,14 @@ redirect_from:
   - /research.html
 ---
 
-
+<p></p>
 <details>
 <summary markdown='span'>
 [**Panel Regression with Endogenous Regime Switching**](/files/Panel_Regression_with_ERS.pdf)
 <span style="color:coral"> [[Draft]](/files/Panel_Regression_with_ERS.pdf) </span>
 </summary>
 
-<span class="emphasized">This paper investigates the time variation in the Captial Asset Pricing Model (CAPM) betas by introducing a new approach that models panel regressions with endogenous regime-switching using a latent autoregressive factor. For our estimation, we model the CAPM using portfolio returns sorted on book-to-market ratio, where the factor loadings, the pricing errors, and the volatility of the error terms can vary across high and low volatility states of the market. We find that the behavior of this asset pricing model significantly differs across different volatility regimes and its performance improves significantly, especially when it is evaluated during the times where the market is in the low volatility regime.</span>
+<p class="italic">This paper investigates the time variation in the Captial Asset Pricing Model (CAPM) betas by introducing a new approach that models panel regressions with endogenous regime-switching using a latent autoregressive factor. For our estimation, we model the CAPM using portfolio returns sorted on book-to-market ratio, where the factor loadings, the pricing errors, and the volatility of the error terms can vary across high and low volatility states of the market. We find that the behavior of this asset pricing model significantly differs across different volatility regimes and its performance improves significantly, especially when it is evaluated during the times where the market is in the low volatility regime.</p>
 
 </details>
 
