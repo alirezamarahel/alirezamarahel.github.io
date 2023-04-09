@@ -11,7 +11,7 @@ redirect_from:
 <p></p>
 <details>
 <summary markdown='span'>
-[**Panel Regression with Endogenous Regime Switching**](/files/Panel_Regression_with_ERS.pdf)
+<span style="color:black">[**Panel Regression with Endogenous Regime Switching**](/files/Panel_Regression_with_ERS.pdf)</span>
 <span style="color:black"> [[Draft]](/files/Panel_Regression_with_ERS.pdf) </span>
 </summary>
 
