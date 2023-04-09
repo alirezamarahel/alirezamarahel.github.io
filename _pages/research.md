@@ -1,12 +1,12 @@
 ---
 title:  "Research"
-permalink: /
+permalink: /research/
 author_profile: true
 comments: true
 redirect_from: 
-  - /research/
   - /research.html
 ---
+
 
 <details>
 <summary markdown='span'>
