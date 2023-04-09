@@ -3,12 +3,11 @@ title:  "Research"
 permalink: /research/
 author_profile: true
 comments: true
-redirect_from:
-  - /research.html
 ---
 <br>
 
 <p></p>
+
 <details>
 <summary markdown='span'>
 [**Panel Regression with Endogenous Regime Switching**](/files/Panel_Regression_with_ERS.pdf)
