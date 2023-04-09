@@ -85,8 +85,8 @@ author:
   bio              : "Economics Ph.D. Student @ Indiana University Bloomington"
   location         : "Bloomington, IN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "amarahel@iu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
