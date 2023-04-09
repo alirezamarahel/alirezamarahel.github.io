@@ -1,9 +1,12 @@
 ---
 title:  "Research"
 layout: archive
-permalink: /research/
+
 author_profile: true
 comments: true
+redirect_from: 
+  - /research/
+  - /research.html
 ---
 
 <details>
