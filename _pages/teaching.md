@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Associate Instructor (full teaching responsibilities)
-* Statistical Analysis For Business and Economics ([Syllabus](/files/E370_Syllabus_Fall2022.pdf))
+* Statistical Analysis For Business and Economics ([Syllabus](/files/E370/E370_Syllabus_Fall2022.pdf))
 
 
 ## Teaching Assistant
