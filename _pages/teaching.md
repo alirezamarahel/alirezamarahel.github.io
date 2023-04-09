@@ -6,7 +6,7 @@ redirect_from:
   - /teaching.html
 ---
 
-## Associate Instructor (full teaching responsibilities)
+## Associate Instructor *(full teaching responsibilities)*
 * Statistical Analysis For Business and Economics ([Syllabus](/files/E370/E370_Syllabus_Fall2022.pdf))
 
 
