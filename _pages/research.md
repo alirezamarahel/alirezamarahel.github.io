@@ -3,16 +3,14 @@ title:  "Research"
 permalink: /research/
 author_profile: true
 comments: true
-redirect_from: 
-  - /research.html
 ---
 
 
 <details>
 <summary markdown='span'>
 [**Panel Regression with Endogenous Regime Switching**](/files/Panel_Regression_with_ERS.pdf)
-<span style="color:coral"> [[Draft]](/files/Panel_Regression_with_ERS.pdf)
-	</summary>
+<span style="color:coral"> [[Draft]](/files/Panel_Regression_with_ERS.pdf) </span>
+</summary>
 
 *This paper investigates the time variation in the Captial Asset Pricing Model (CAPM) betas by introducing a new approach that models panel regressions with endogenous regime-switching using a latent autoregressive factor. For our estimation, we model the CAPM using portfolio returns sorted on book-to-market ratio, where the factor loadings, the pricing errors, and the volatility of the error terms can vary across high and low volatility states of the market. We find that the behavior of this asset pricing model significantly differs across different volatility regimes and its performance improves significantly, especially when it is evaluated during the times where the market is in the low volatility regime.*
 
@@ -30,3 +28,14 @@ redirect_from:
 
 </details>
 <p></p>
+
+
+
+<details>
+<summary markdown='span'>
+[**How Tariﬀs Can Reshape the International Trade Flow: Evidence from Colombia**](/files/How-Tariffs-Can-Reshape-the-International-Trade-Flow.pdf)          
+</summary>
+
+*This paper argues that trade barriers such as tariffs can cause more harm than benefit, resulting in lower income, reduced employment, and lower economic output. While tariffs may afford short-term protection for domestic industries, they do so at the expense of other industries and consumers in the economy, resulting in less efficient allocation of resources and slower economic growth. The paper examines the short-run effects of the United States-Colombia Trade Promotion Agreement (CTPA) in 2012 on Colombia's economy, which aimed to eliminate tariffs and other barriers to trade in goods and services between the United States and Colombia. The paper analyzes the impact of the agreement on sectors such as metal and ores, infrastructure and machinery, transport equipment, autos and auto parts, building products, paper and paper products, and consumer goods. The paper concludes that the effects of tariffs depend on the incidence of tariffs, and consumers and firms who buy foreign products can gain from lower tariffs as the final price will be lower for them.*
+</details>
+<br>
