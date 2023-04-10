@@ -43,7 +43,7 @@ redirect_from:
 <details>
 <summary markdown='span'> 
 <a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="font-weight: bold; text-decoration: underline; color: inherit;"
+  <span style="display: inline-block; font-weight: bold; text-decoration: underline; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     Revenue Mobilization for a Resilient and Inclusive Recovery in the Middle East and Central Asia
@@ -77,7 +77,7 @@ redirect_from:
 <details>
 <summary markdown='span'>
 <a href="/files/How-Tariffs-Can-Reshape-the-International-Trade-Flow.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="font-weight: bold; text-decoration: underline; color: inherit;"
+  <span style="display: inline-block; font-weight: bold; text-decoration: underline; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     How Tariﬀs Can Reshape the International Trade Flow: Evidence from Colombia
