@@ -12,13 +12,26 @@ redirect_from:
 <p></p>
 <details>
 <summary markdown='span'>
-<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: '#4a4e52'; text-decoration-color: '#4a4e52'; font-weight: bold;">
-<span style="font-weight: bold; text-decoration: underline; text-decoration-color: '#4a4e52'; color: inherit;" onmouseover="this.style.color='#69b0c5'; this.style.textDecorationColor='#69b0c5';" onmouseout="this.style.color='#4a4e52'; this.style.textDecorationColor='#4a4e52';">Panel Regression with Endogenous Regime Switching</span></a>
-<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: '#4a4e52'; text-decoration-color: '#4a4e52';">
-<span style="text-decoration: underline; text-decoration-color: '#4a4e52'; color: '#4a4e52';" onmouseover="this.style.color='#69b0c5'; this.style.textDecorationColor='#69b0c5';" onmouseout="this.style.color='#4a4e52'; this.style.textDecorationColor='#4a4e52';">[Draft]</span></a> 
+<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
+  <span style="font-weight: bold; text-decoration: underline; color: inherit;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    Panel Regression with Endogenous Regime Switching
+  </span>
+</a>
+<a href="/files/Panel_Regression_with_ERS_draft.pdf" style="text-decoration: none; color: #4a4e52;">
+  <span style="text-decoration: underline; color: #4a4e52;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    [Draft]
+  </span>
+</a> 
 </summary>
+
 <p><em>This paper investigates the time variation in the Capital Asset Pricing Model (CAPM) betas by introducing a new approach that models panel regressions with endogenous regime-switching using a latent autoregressive factor. For our estimation, we model the CAPM using portfolio returns sorted on book-to-market ratio, where the factor loadings, the pricing errors, and the volatility of the error terms can vary across high and low volatility states of the market. We find that the behavior of this asset pricing model significantly differs across different volatility regimes and its performance improves significantly, especially when it is evaluated during the times where the market is in the low volatility regime.</em></p>
+
 </details>
+
 
 <p></p>
 
