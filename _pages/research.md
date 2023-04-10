@@ -12,7 +12,7 @@ redirect_from:
 <p></p>
 <details>
 <summary markdown='span'>
-<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: black;">
+<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; font-weight: bold; color: black;">
 <span onmouseover="this.style.color='#AFDCEC'" onmouseout="this.style.color='black'">Panel Regression with Endogenous Regime Switching</span></a> [[Draft]](/files/Panel_Regression_with_ERS.pdf)
 </summary>
 
