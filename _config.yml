@@ -49,6 +49,9 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+header:
+  image: /images/Tehran.jpg
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
