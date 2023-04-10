@@ -18,11 +18,12 @@ redirect_from:
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     <span style="text-decoration: underline;">
-      Panel Regression with Endogenous Regime Switching &#8202;
+      Panel Regression with Endogenous Regime Switching
     </span>
   </span>
 </a>
-&#8202<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
+&#8202;
+<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
   <span style="text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
@@ -54,14 +55,14 @@ redirect_from:
     onmouseout="this.style.color='#4a4e52';">
     [Published version]
   </span>
-</a> 
+</a>  
 <a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/IMF_Presentation.pdf';return false;">
   <span style="text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     [Slides]
   </span>
-</a> 
+</a>
 <br> &emsp;with Fiscal Policy Group, Middle East and Central Asia Department, IMF 
 </summary>      
 
