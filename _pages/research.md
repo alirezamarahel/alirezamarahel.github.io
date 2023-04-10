@@ -18,7 +18,7 @@ redirect_from:
     onmouseout="this.style.color='#4a4e52';">
     Panel Regression with Endogenous Regime Switching
   </span>
-</a>
+</a> 
 <a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;">
   <span style="text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
