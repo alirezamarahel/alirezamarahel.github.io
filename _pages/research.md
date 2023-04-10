@@ -56,6 +56,7 @@ redirect_from:
     [Published version]
   </span>
 </a> 
+&#8202;
 <a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/IMF_Presentation.pdf';return false;">
   <span style="text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
