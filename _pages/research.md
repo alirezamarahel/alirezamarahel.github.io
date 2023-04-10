@@ -13,9 +13,11 @@ redirect_from:
 <details>
 <summary markdown='span'>
 <a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-<span style="font-weight: bold; text-decoration: underline; color: inherit;" onmouseover="this.style.color='#69b0c5';" onmouseout="this.style.color='#4a4e52';">Panel Regression with Endogenous Regime Switching</span></a>
+<span style="font-weight: bold; text-decoration: underline; color: inherit;" onmouseover="this.style.color='#69b0c5';" onmouseout="this.style.color='#4a4e52';">Panel Regression with Endogenous Regime Switching</span></a> 
+
+
 <a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: '#4a4e52'; text-decoration-color='#4a4e52';">
-<span style="text-decoration: underline; text-decoration-color: '#4a4e52'; color: '#4a4e52';" onmouseover="this.style.color='#69b0c5'; this.style.textDecorationColor='#69b0c5';" onmouseout="this.style.color='#4a4e52'; this.style.textDecorationColor='#4a4e52';">[Draft]</span></a> 
+<span style="text-decoration: underline; text-decoration-color: '#4a4e52'; color: '#4a4e52';" onmouseover="this.style.color='#69b0c5'; this.style.textDecorationColor='#69b0c5';" onmouseout="this.style.color='#4a4e52'; this.style.textDecorationColor='#4a4e52';">[Draft] [[Slides]](/files/IMF_Presentation.pdf)</span></a> 
 </summary>
 
 
