@@ -13,18 +13,23 @@ redirect_from:
 <p></p>
 <details>
 <summary markdown='span'>
-  <a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold; display: inline-block;">
-    <span style="text-decoration: underline; display: inline-block; margin-right: 4px;"
-      onmouseover="this.style.color='#69b0c5';"
-      onmouseout="this.style.color='#4a4e52';">
+<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
+  <span style="font-weight: bold; color: inherit;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    <span style="display: inline-block; text-decoration: underline;">
       Panel Regression with Endogenous Regime Switching
     </span>
-    <span style="text-decoration: underline; color: #4a4e52; display: inline-block;"
-      onmouseover="this.style.color='#69b0c5';"
-      onmouseout="this.style.color='#4a4e52';">
-      [Draft]
-    </span>
-  </a>
+  </span>
+</a>
+&#8202;
+<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
+  <span style="text-decoration: underline; color: #4a4e52;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    [Draft]
+  </span>
+</a>
 </summary>
 
 
@@ -46,14 +51,14 @@ redirect_from:
 </a>
 &#8202;
 <a href="https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2022/06/30/Revenue-Mobilization-for-a-Resilient-and-Inclusive-Recovery-in-the-Middle-East-and-Central-513773" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2022/06/30/Revenue-Mobilization-for-a-Resilient-and-Inclusive-Recovery-in-the-Middle-East-and-Central-513773';return false;">
-  <span style="text-decoration: underline; color: #4a4e52;"
+  <span style="display: inline-block; text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     [Published version]
   </span>
 </a> 
 <a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/IMF_Presentation.pdf';return false;">
-  <span style="text-decoration: underline; color: #4a4e52;"
+  <span style="display: inline-block; text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     [Slides]
