@@ -36,8 +36,29 @@ redirect_from:
 <p></p>
 
 <details>
-<summary markdown='span'>
-[**Revenue Mobilization for a Resilient and Inclusive Recovery in the Middle East and Central Asia**](/files/IMF_Presentation.pdf)   [[Published version]](https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2022/06/30/Revenue-Mobilization-for-a-Resilient-and-Inclusive-Recovery-in-the-Middle-East-and-Central-513773)[[Slides]](/files/IMF_Presentation.pdf)  
+<summary markdown='span'> 
+<a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
+  <span style="font-weight: bold; text-decoration: underline; color: inherit;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    Revenue Mobilization for a Resilient and Inclusive Recovery in the Middle East and Central Asia
+  </span>
+  &emsp;with Fiscal Policy Group, Middle East and Central Asia Department, IMF 
+</a>
+<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2022/06/30/Revenue-Mobilization-for-a-Resilient-and-Inclusive-Recovery-in-the-Middle-East-and-Central-513773';return false;">
+  <span style="text-decoration: underline; color: #4a4e52;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    [Published version]
+  </span>
+</a> 
+<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/IMF_Presentation.pdf';return false;">
+  <span style="text-decoration: underline; color: #4a4e52;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    [Slides]
+  </span>
+</a> 
 &emsp;with Fiscal Policy Group, Middle East and Central Asia Department, IMF 
 </summary>      
 
