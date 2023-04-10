@@ -9,6 +9,15 @@ redirect_from:
 ---
 <br>
 
+summary {
+  color: black; 
+  cursor: pointer; 
+}
+
+summary:hover {
+  color: #4d4dff;
+}
+
 <p></p>
 <details>
 <summary markdown='span'>
