@@ -11,7 +11,7 @@ redirect_from:
 
 <p></p>
 <details>
-<summary markdown='span' onclick="event.preventDefault()">
+<summary markdown='span'>
 <a href="/files/Panel_Regression_with_ERS_act.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
   <span style="font-weight: bold; text-decoration: underline; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
