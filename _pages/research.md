@@ -13,24 +13,20 @@ redirect_from:
 <p></p>
 <details>
 <summary markdown='span'>
-<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="font-weight: bold; color: inherit;"
-    onmouseover="this.style.color='#69b0c5';"
-    onmouseout="this.style.color='#4a4e52';">
-    <span style="text-decoration: underline;">
+  <a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold; display: inline-block;">
+    <span style="text-decoration: underline; display: inline-block; margin-right: 4px;"
+      onmouseover="this.style.color='#69b0c5';"
+      onmouseout="this.style.color='#4a4e52';">
       Panel Regression with Endogenous Regime Switching
     </span>
-  </span>
-</a>
-&#8202;
-<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
-  <span style="text-decoration: underline; color: #4a4e52;"
-    onmouseover="this.style.color='#69b0c5';"
-    onmouseout="this.style.color='#4a4e52';">
-    [Draft]
-  </span>
-</a>
+    <span style="text-decoration: underline; color: #4a4e52; display: inline-block;"
+      onmouseover="this.style.color='#69b0c5';"
+      onmouseout="this.style.color='#4a4e52';">
+      [Draft]
+    </span>
+  </a>
 </summary>
+
 
 <span style="font-style: italic; font-size: 98%;">This paper investigates the time variation in the Captial Asset Pricing Model (CAPM) betas by introducing a new approach that models panel regressions with endogenous regime-switching using a latent autoregressive factor. For our estimation, we model the CAPM using portfolio returns sorted on book-to-market ratio, where the factor loadings, the pricing errors, and the volatility of the error terms can vary across high and low volatility states of the market. We find that the behavior of this asset pricing model significantly differs across different volatility regimes and its performance improves significantly, especially when it is evaluated during the times where the market is in the low volatility regime.</span>
 
@@ -55,14 +51,14 @@ redirect_from:
     onmouseout="this.style.color='#4a4e52';">
     [Published version]
   </span>
-</a>  
+</a> 
 <a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/IMF_Presentation.pdf';return false;">
   <span style="text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     [Slides]
   </span>
-</a>
+</a> 
 <br> &emsp;with Fiscal Policy Group, Middle East and Central Asia Department, IMF 
 </summary>      
 
