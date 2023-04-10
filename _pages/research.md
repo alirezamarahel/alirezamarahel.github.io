@@ -43,14 +43,14 @@ redirect_from:
 <details>
 <summary markdown='span'> 
 <a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="display: inline-block; font-weight: bold; text-decoration: underline; color: inherit;"
+  <span style="display: inline; font-weight: bold; text-decoration: underline; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     Revenue Mobilization for a Resilient and Inclusive Recovery in the Middle East and Central Asia
   </span>
 </a>
 <a href="https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2022/06/30/Revenue-Mobilization-for-a-Resilient-and-Inclusive-Recovery-in-the-Middle-East-and-Central-513773" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2022/06/30/Revenue-Mobilization-for-a-Resilient-and-Inclusive-Recovery-in-the-Middle-East-and-Central-513773';return false;">
-  <span style="display: block; text-decoration: underline; color: #4a4e52;"
+  <span style="display: inline-block; text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     [Published version]
