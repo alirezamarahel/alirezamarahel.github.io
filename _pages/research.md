@@ -10,19 +10,19 @@ redirect_from:
 
 <br>
 
+<p></p>
 <details>
 <summary markdown='span'>
 <a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="font-weight: bold; color: inherit; position: relative; display: inline-block;"
+  <span style="font-weight: bold; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
-    Panel Regression with Endogenous Regime Switching
-    <span style="position: absolute; bottom: -1px; left: 0; width: 100%; text-align: center; border-bottom: 1px solid;">
+    <span style="text-decoration: underline;">
+      Panel Regression with Endogenous Regime Switching &#8202;
     </span>
   </span>
 </a>
-&#8202;
-<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
+&#8202<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
   <span style="text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
@@ -30,8 +30,6 @@ redirect_from:
   </span>
 </a>
 </summary>
-</details>
-
 
 <span style="font-style: italic; font-size: 98%;">This paper investigates the time variation in the Captial Asset Pricing Model (CAPM) betas by introducing a new approach that models panel regressions with endogenous regime-switching using a latent autoregressive factor. For our estimation, we model the CAPM using portfolio returns sorted on book-to-market ratio, where the factor loadings, the pricing errors, and the volatility of the error terms can vary across high and low volatility states of the market. We find that the behavior of this asset pricing model significantly differs across different volatility regimes and its performance improves significantly, especially when it is evaluated during the times where the market is in the low volatility regime.</span>
 
