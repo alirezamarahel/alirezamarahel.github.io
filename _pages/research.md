@@ -14,10 +14,12 @@ redirect_from:
 <details>
 <summary markdown='span'>
 <a href="/files/Panel_Regression_with_ERS_act.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="font-weight: bold; text-decoration: underline; color: inherit;"
+  <span style="font-weight: bold; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
-    Panel Regression with Endogenous Regime Switching
+    <span style="text-decoration: underline;">
+      Panel Regression with Endogenous Regime Switching
+    </span>
   </span>
 </a>
 <a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
