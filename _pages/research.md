@@ -12,8 +12,8 @@ redirect_from:
 <p></p>
 <details>
 <summary class="research-link" markdown='span'>
-<span onmouseover="this.style.color='coral'" onmouseout="this.style.color='black'">[<strong>Panel Regression with Endogenous Regime Switching</strong>](/files/Panel_Regression_with_ERS.pdf)</span>
-<span style="color:coral"> [[Draft]](/files/Panel_Regression_with_ERS.pdf) </span>
+<span onmouseover="this.style.color='#4d4dff'" onmouseout="this.style.color='black'">[<strong>Panel Regression with Endogenous Regime Switching</strong>](/files/Panel_Regression_with_ERS.pdf)</span>
+<span style="color:'#4d4dff'"> [[Draft]](/files/Panel_Regression_with_ERS.pdf) </span>
 </summary>
 
 <p><em>This paper .</em></p>
