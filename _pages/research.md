@@ -50,7 +50,7 @@ redirect_from:
   </span>
 </a>
 <a href="https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2022/06/30/Revenue-Mobilization-for-a-Resilient-and-Inclusive-Recovery-in-the-Middle-East-and-Central-513773" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2022/06/30/Revenue-Mobilization-for-a-Resilient-and-Inclusive-Recovery-in-the-Middle-East-and-Central-513773';return false;">
-  <span style="display: inline; text-decoration: underline; color: #4a4e52;"
+  <span style="display: block; text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     [Published version]
