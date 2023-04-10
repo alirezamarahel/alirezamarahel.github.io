@@ -10,15 +10,14 @@ redirect_from:
 
 <br>
 
-<p></p>
 <details>
 <summary markdown='span'>
 <a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="font-weight: bold; color: inherit;"
+  <span style="font-weight: bold; color: inherit; position: relative; display: inline-block;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
-    <span style="text-decoration: underline;">
-      Panel Regression with Endogenous Regime Switching
+    Panel Regression with Endogenous Regime Switching
+    <span style="position: absolute; bottom: -1px; left: 0; width: 100%; text-align: center; border-bottom: 1px solid;">
     </span>
   </span>
 </a>
@@ -31,6 +30,8 @@ redirect_from:
   </span>
 </a>
 </summary>
+</details>
+
 
 <span style="font-style: italic; font-size: 98%;">This paper investigates the time variation in the Captial Asset Pricing Model (CAPM) betas by introducing a new approach that models panel regressions with endogenous regime-switching using a latent autoregressive factor. For our estimation, we model the CAPM using portfolio returns sorted on book-to-market ratio, where the factor loadings, the pricing errors, and the volatility of the error terms can vary across high and low volatility states of the market. We find that the behavior of this asset pricing model significantly differs across different volatility regimes and its performance improves significantly, especially when it is evaluated during the times where the market is in the low volatility regime.</span>
 
@@ -63,7 +64,6 @@ redirect_from:
     [Slides]
   </span>
 </a> 
-&#8202;
 <br> &emsp;with Fiscal Policy Group, Middle East and Central Asia Department, IMF 
 </summary>      
 
@@ -77,15 +77,13 @@ redirect_from:
 <details>
 <summary markdown='span'>
 <a href="/files/How-Tariffs-Can-Reshape-the-International-Trade-Flow.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="font-weight: bold; color: inherit;"
-    onmouseover="this.style.textDecoration='underline'; this.style.color='#69b0c5';"
-    onmouseout="this.style.textDecoration='none'; this.style.color='#4a4e52';">
+  <span style="font-weight: bold; text-decoration: underline; color: inherit;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
     How Tariﬀs Can Reshape the International Trade Flow: Evidence from Colombia
   </span>
 </a>        
 </summary>
-</details>
-
 
 <span style="font-style: italic; font-size: 98%;">This paper argues that trade barriers such as tariffs can cause more harm than benefit, resulting in lower income, reduced employment, and lower economic output. While tariffs may afford short-term protection for domestic industries, they do so at the expense of other industries and consumers in the economy, resulting in less efficient allocation of resources and slower economic growth. The paper examines the short-run effects of the United States-Colombia Trade Promotion Agreement (CTPA) in 2012 on Colombia's economy, which aimed to eliminate tariffs and other barriers to trade in goods and services between the United States and Colombia. The paper analyzes the impact of the agreement on sectors such as metal and ores, infrastructure and machinery, transport equipment, autos and auto parts, building products, paper and paper products, and consumer goods. The paper concludes that the effects of tariffs depend on the incidence of tariffs, and consumers and firms who buy foreign products can gain from lower tariffs as the final price will be lower for them.</span>
 </details>
