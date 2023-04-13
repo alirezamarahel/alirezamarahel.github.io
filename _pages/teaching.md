@@ -7,7 +7,13 @@ redirect_from:
 ---
 
 ## Associate Instructor
-* Statistical Analysis For Business and Economics ([Syllabus](/files/E370/E370_Syllabus_Fall2022.pdf))
+* Statistical Analysis For Business and Economics ([Syllabus](/files/E370/E370_Syllabus_Fall2022.pdf)) <a href="/files/E370/Slides.zip" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
+  <span style="text-decoration: underline; color: #4a4e52;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    [Slides]
+  </span>
+</a>
 
 
 ## Teaching Assistant
