@@ -24,5 +24,7 @@ redirect_from:
 
 ## Teaching Assistant
 * Statistical Analysis For Business and Economics, Undergraduate Course
+* Fundamentals of Economics I, Undergraduate Course
+* Applied Principles of Microeconomics: Creative Commerce, Undergraduate Course
 * Introduction to Microeconomics, Undergraduate Course
 * Introduction to Macroeconomics, Undergraduate Course
