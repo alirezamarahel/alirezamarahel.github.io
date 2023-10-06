@@ -26,6 +26,10 @@ redirect_from:
   </span>
 </a>
 
+</summary>
+
+</details>
+
 ## Working Papers
 
 <p></p>
