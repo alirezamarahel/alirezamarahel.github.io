@@ -56,6 +56,20 @@ redirect_from:
 </details>
 
 
+<p></p>
+<details>
+<summary markdown='span'>
+<a style="text-decoration: none; color: #4a4e52; font-weight: bold;">
+  <span style="font-weight: bold; color: inherit;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    <span style="display: inline-block; text-decoration: underline;">
+      On the Effectiveness of LSTM Models in Predicting Inflation Rates
+    </span>
+  </span>
+</a>
+
+
 ## Publications
 
 <p></p>
