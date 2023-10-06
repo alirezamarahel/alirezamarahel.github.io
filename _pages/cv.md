@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /cv.html
 ---
+<br>
 
 {% include base_path %}
 
