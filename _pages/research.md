@@ -18,7 +18,7 @@ redirect_from:
 <details>
 <summary markdown='span'> 
 <a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="display: inline-block; font-weight: bold; text-decoration: underline; color: inherit;"
+  <span style="display: run-in; finline-block; ont-weight: bold; text-decoration: underline; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     Navigating Carbon Border Adjustments: Quantifying the Tradeoffs of Unilateral Climate Policy
