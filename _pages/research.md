@@ -86,7 +86,7 @@ redirect_from:
   <span style="display: run-in; font-weight: bold; text-decoration: underline; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
-    Revenue Mobilization for a Resilient and Inclusive Recovery in the Middle East and Central Asia
+    Navigating Carbon Border Adjustments: Quantifying the Tradeoffs of Unilateral Climate Policy
   </span>
 </a>
 &#8202;
