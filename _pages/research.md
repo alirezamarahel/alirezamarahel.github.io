@@ -23,7 +23,7 @@ redirect_from:
     onmouseout="this.style.color='#4a4e52';">
     Navigating Carbon Border Adjustments: Quantifying the Tradeoffs of Unilateral Climate Policy
   </span>
-</a> <br> &emsp;Draft coming soon!
+</a> <br> &emsp; <span style="font-style: italic; font-size:Draft coming soon!</span>
 &#8202;
 
 </summary>
