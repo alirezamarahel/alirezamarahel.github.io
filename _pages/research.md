@@ -21,13 +21,10 @@ redirect_from:
   <span style="display: run-in; finline-block; ont-weight: bold; text-decoration: underline; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
-    <span style="display: inline-block; text-decoration: underline;">
-      Navigating Carbon Border Adjustments: Quantifying the Tradeoffs of Unilateral Climate Policy
-    </span>
+    Navigating Carbon Border Adjustments: Quantifying the Tradeoffs of Unilateral Climate Policy
   </span> 
-</a> <span style="font-style: italic;">(Draft coming soon!) </span>    
+</a> <span style="font-style: italic;">(Draft coming soon!) </span> <br> 
 &#8202;
-
 
 </summary>
 
@@ -125,8 +122,7 @@ redirect_from:
     onmouseout="this.style.color='#4a4e52';">
     How Tariﬀs Can Reshape the International Trade Flow: Evidence from Colombia
   </span>
-</a>       
-&#8202; 
+</a>        
 </summary>
 
 <span style="font-style: italic; font-size: 98%;">This paper argues that trade barriers such as tariffs can cause more harm than benefit, resulting in lower income, reduced employment, and lower economic output. While tariffs may afford short-term protection for domestic industries, they do so at the expense of other industries and consumers in the economy, resulting in less efficient allocation of resources and slower economic growth. The paper examines the short-run effects of the United States-Colombia Trade Promotion Agreement (CTPA) in 2012 on Colombia's economy, which aimed to eliminate tariffs and other barriers to trade in goods and services between the United States and Colombia. The paper analyzes the impact of the agreement on sectors such as metal and ores, infrastructure and machinery, transport equipment, autos and auto parts, building products, paper and paper products, and consumer goods. The paper concludes that the effects of tariffs depend on the incidence of tariffs, and consumers and firms who buy foreign products can gain from lower tariffs as the final price will be lower for them.</span>
