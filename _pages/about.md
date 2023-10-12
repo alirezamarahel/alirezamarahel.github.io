@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-Welcome to my website! My name is Alireza Marahel and I am a PhD candidate in Economics at Indiana University Bloomington. I am expected to graduate with PhD degree in Economics during spring of 2024.
+Welcome to my website! My name is Alireza Marahel and I am a PhD candidate in Economics at Indiana University Bloomington. I am expected to graduate with a PhD degree in Economics during spring of 2024.
 
 <!--[^1]: Please navigate using the top menubar. You can come back to this page by clicking **Alireza Marahel** icon at the top left corner.-->
 
