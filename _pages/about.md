@@ -1,50 +1,67 @@
 ---
 permalink: /
-title: "Welcome"
-excerpt: "Economist & Researcher"
+title: "About"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Alireza Marahel
-Economics Ph.D. candidate at **Indiana University**, Bloomington. I am set to defend my dissertation in spring 2024. My research encompasses quantitative economics, climate policy, financial econometrics, and machine learning, where I integrate theoretical perspectives with comprehensive quantitative analyses. I am keenly interested in collaborations and opportunities to apply my skills in economic analysis.
 
-### Contact Information
-- Phone: (812) 361-7552
-- Email: [amarahel@iu.edu](mailto:amarahel@iu.edu)
-- Personal Website: [alirezamarahel.github.io](https://alirezamarahel.github.io)
 
-### Education
-- Ph.D. in Economics, **Indiana University Bloomington**
 
-### Specialties
-- Quantitative Economics
-- Climate Policy
-- Financial Econometrics
-- Machine Learning
 
-### Skills
-- Python (NumPy, Scikit-Learn, Matplotlib, Pandas, TensorFlow)
-- MATLAB, R, Stata
-- High-performance Computing (Linux)
-- SQL, MS Excel, LaTeX
+Welcome to my website! My name is Alireza Marahel and I am a PhD candidate in Economics at Indiana University Bloomington. I am expected to graduate with a PhD degree in Economics during spring of 2024.
 
-[Résumé Download](/files/AlirezaMarahel_Resume.pdf)
+<!--[^1]: Please navigate using the top menubar. You can come back to this page by clicking **Alireza Marahel** icon at the top left corner.-->
 
-### Selected Research Projects
-1. **Navigating Carbon Border Adjustments**
-   - Welfare and emissions impacts analysis of carbon border adjustment mechanism designs.
-   
-2. **Panel Regression with Endogenous Regime Switching**
-   - Approach for panel regressions with endogenous regime switching using an autoregressive latent factor.
-   
-3. **Effectiveness of LSTM Models in Inflation Rate Prediction**
-   - Predictive analysis of U.S. inflation rate using Long-Short Term Memory (LSTM) models.
-   
-4. **Revenue Mobilization in the Middle East and Central Asia**
-   - Assessment of tax capacity in MCD countries via stochastic tax frontier model.
+**Field of Interest:** Quantitative Economics, Climate Policy, Financial Econometrics, Machine Learning
 
-### Connect
-I welcome discussions on new projects, ideas, or collaborations. Contact me on [Twitter](link-to-twitter), [LinkedIn](link-to-linkedin), or via [Email](mailto:amarahel@iu.edu).
+For my résumé, [click here](/files/AlirezaMarahel_Resume.pdf).
+
+
+{% comment %} 
+I am a PhD candidate in Economics at Indiana University Bloomington. My research falls at the intersection of econometrics and finance. I apply a wide range of empirical methods, with a focus on using modified Markov regime switching to understand the behavior of asset pricing models in relation to macroeconomic uncertainties. In my current research, I create novel models to help understand how a positive feedback loop from the shocks to the market excess return can improve the prediction of stock exess returns.   
+<p></p>
+I will be on the 2023/2024 Job Market and available for interviews.
+
+<br>
+{% endcomment %}
+<!-- ---
+layout: splash
+permalink: /aboutme/
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/Knies_sg_hs25.png
+  actions:
+    - label: "<i class='fas fa-download'></i> Download CV"
+      url: "/files/AlirezaMarahel_Resume.pdf"
+excerpt: >
+  Just learning more about how little I know.
+feature_row:
+  - image_path: /images/profile.png
+    alt: "Research"
+    title: "Research"
+    excerpt: "Current and past projects, including any relevant code and documentation."
+    url: "/research/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /images/profile.png
+    alt: "Teaching"
+    title: "Teaching Experience"
+    excerpt: "Courses I have taught. Syllabi available upon request."
+    url: "/teaching/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /images/profile.png
+    alt: "About Me"
+    title: "About Me"
+    excerpt: "My background and interests."
+    url: "/aboutme/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+---
+
+{% include feature_row %} -->
