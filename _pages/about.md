@@ -1,67 +1,39 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Economist & Researcher"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## About Me
+I am **Alireza Marahel**, an Economics Ph.D. candidate at **Indiana University** in Bloomington, Indiana. I am set to defend my dissertation and graduate in the spring of 2024. My research revolves around quantitative economics, climate policy, financial econometrics, and machine learning, where I combine theoretical frameworks with the application of quantitative methods on large datasets. I am actively seeking opportunities to apply my skills and experience in economic analysis and problem-solving in collaboration with others.
 
+### Contact
+- Phone: (812) 361-7552
+- Email: [amarahel@iu.edu](mailto:amarahel@iu.edu)
+- Website: [alirezamarahel.github.io](https://alirezamarahel.github.io)
 
+### Quick Highlights:
+- 🎓 Pursuing a Ph.D. in Economics at **Indiana University Bloomington**.
+- 🌍 Specialties: Quantitative Economics, Climate Policy, Financial Econometrics, Machine Learning.
+- 🛠 Skills: Python (NumPy, Scikit-Learn, Matplotlib, Pandas, TensorFlow), MATLAB, R, Stata, High-performance Computing (Linux), SQL, MS Excel, LaTeX.
+- 📄 [Download my résumé](/files/AlirezaMarahel_Resume.pdf).
 
+### Selected Research Projects:
+- **Navigating Carbon Border Adjustments: Quantifying the Tradeoffs of Unilateral Climate Policy**
+  - Analyzed welfare and emissions impacts of different carbon border adjustment mechanism (CBAM) designs.
+  - Calibrated the model with data on trade, production, emissions, and environmental taxes.
+- **Panel Regression with Endogenous Regime Switching**
+  - Constructed a new approach to model panel regressions with endogenous regime switching using an autoregressive latent factor.
+  - Detected environmental factors influencing the state of the economy through IU supercomputing systems.
+- **On the Effectiveness of LSTM Models in Predicting Inflation Rates**
+  - Examined the predictive performance of Long-Short Term Memory (LSTM) to forecast U.S. inflation rate.
+  - Forecasted inflation with various models using Python libraries and MATLAB.
+- **Revenue Mobilization for a Resilient and Inclusive Recovery in the Middle East and Central Asia**
+  - Assessed tax capacity and estimated tax revenue gaps in MCD countries using a stochastic tax frontier model.
 
-Welcome to my website! My name is Alireza Marahel and I am a PhD candidate in Economics at Indiana University Bloomington. I am expected to graduate with a PhD degree in Economics during spring of 2024.
-
-<!--[^1]: Please navigate using the top menubar. You can come back to this page by clicking **Alireza Marahel** icon at the top left corner.-->
-
-**Field of Interest:** Quantitative Economics, Climate Policy, Financial Econometrics, Machine Learning
-
-For my résumé, [click here](/files/AlirezaMarahel_Resume.pdf).
-
-
-{% comment %} 
-I am a PhD candidate in Economics at Indiana University Bloomington. My research falls at the intersection of econometrics and finance. I apply a wide range of empirical methods, with a focus on using modified Markov regime switching to understand the behavior of asset pricing models in relation to macroeconomic uncertainties. In my current research, I create novel models to help understand how a positive feedback loop from the shocks to the market excess return can improve the prediction of stock exess returns.   
-<p></p>
-I will be on the 2023/2024 Job Market and available for interviews.
-
-<br>
-{% endcomment %}
-<!-- ---
-layout: splash
-permalink: /aboutme/
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/Knies_sg_hs25.png
-  actions:
-    - label: "<i class='fas fa-download'></i> Download CV"
-      url: "/files/AlirezaMarahel_Resume.pdf"
-excerpt: >
-  Just learning more about how little I know.
-feature_row:
-  - image_path: /images/profile.png
-    alt: "Research"
-    title: "Research"
-    excerpt: "Current and past projects, including any relevant code and documentation."
-    url: "/research/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /images/profile.png
-    alt: "Teaching"
-    title: "Teaching Experience"
-    excerpt: "Courses I have taught. Syllabi available upon request."
-    url: "/teaching/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /images/profile.png
-    alt: "About Me"
-    title: "About Me"
-    excerpt: "My background and interests."
-    url: "/aboutme/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
----
-
-{% include feature_row %} -->
+### Let's Connect!
+Feel free to reach out to me on [Twitter](link-to-your-twitter), [LinkedIn](link-to-your-linkedin), or via [Email](mailto:your-email@email.com). I'm always open to discussing new projects, innovative ideas, or potential collaborations.
