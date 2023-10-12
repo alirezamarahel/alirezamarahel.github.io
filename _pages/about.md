@@ -8,32 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-I am **Alireza Marahel**, an Economics Ph.D. candidate at **Indiana University** in Bloomington, Indiana. I am set to defend my dissertation and graduate in the spring of 2024. My research revolves around quantitative economics, climate policy, financial econometrics, and machine learning, where I combine theoretical frameworks with the application of quantitative methods on large datasets. I am actively seeking opportunities to apply my skills and experience in economic analysis and problem-solving in collaboration with others.
+## Alireza Marahel
+Economics Ph.D. candidate at **Indiana University**, Bloomington. I am set to defend my dissertation in spring 2024. My research encompasses quantitative economics, climate policy, financial econometrics, and machine learning, where I integrate theoretical perspectives with comprehensive quantitative analyses. I am keenly interested in collaborations and opportunities to apply my skills in economic analysis.
 
-### Contact
+### Contact Information
 - Phone: (812) 361-7552
 - Email: [amarahel@iu.edu](mailto:amarahel@iu.edu)
-- Website: [alirezamarahel.github.io](https://alirezamarahel.github.io)
+- Personal Website: [alirezamarahel.github.io](https://alirezamarahel.github.io)
 
-### Quick Highlights:
-- 🎓 Pursuing a Ph.D. in Economics at **Indiana University Bloomington**.
-- 🌍 Specialties: Quantitative Economics, Climate Policy, Financial Econometrics, Machine Learning.
-- 🛠 Skills: Python (NumPy, Scikit-Learn, Matplotlib, Pandas, TensorFlow), MATLAB, R, Stata, High-performance Computing (Linux), SQL, MS Excel, LaTeX.
-- 📄 [Download my résumé](/files/AlirezaMarahel_Resume.pdf).
+### Education
+- Ph.D. in Economics, **Indiana University Bloomington**
 
-### Selected Research Projects:
-- **Navigating Carbon Border Adjustments: Quantifying the Tradeoffs of Unilateral Climate Policy**
-  - Analyzed welfare and emissions impacts of different carbon border adjustment mechanism (CBAM) designs.
-  - Calibrated the model with data on trade, production, emissions, and environmental taxes.
-- **Panel Regression with Endogenous Regime Switching**
-  - Constructed a new approach to model panel regressions with endogenous regime switching using an autoregressive latent factor.
-  - Detected environmental factors influencing the state of the economy through IU supercomputing systems.
-- **On the Effectiveness of LSTM Models in Predicting Inflation Rates**
-  - Examined the predictive performance of Long-Short Term Memory (LSTM) to forecast U.S. inflation rate.
-  - Forecasted inflation with various models using Python libraries and MATLAB.
-- **Revenue Mobilization for a Resilient and Inclusive Recovery in the Middle East and Central Asia**
-  - Assessed tax capacity and estimated tax revenue gaps in MCD countries using a stochastic tax frontier model.
+### Specialties
+- Quantitative Economics
+- Climate Policy
+- Financial Econometrics
+- Machine Learning
 
-### Let's Connect!
-Feel free to reach out to me on [Twitter](link-to-your-twitter), [LinkedIn](link-to-your-linkedin), or via [Email](mailto:your-email@email.com). I'm always open to discussing new projects, innovative ideas, or potential collaborations.
+### Skills
+- Python (NumPy, Scikit-Learn, Matplotlib, Pandas, TensorFlow)
+- MATLAB, R, Stata
+- High-performance Computing (Linux)
+- SQL, MS Excel, LaTeX
+
+[Résumé Download](/files/AlirezaMarahel_Resume.pdf)
+
+### Selected Research Projects
+1. **Navigating Carbon Border Adjustments**
+   - Welfare and emissions impacts analysis of carbon border adjustment mechanism designs.
+   
+2. **Panel Regression with Endogenous Regime Switching**
+   - Approach for panel regressions with endogenous regime switching using an autoregressive latent factor.
+   
+3. **Effectiveness of LSTM Models in Inflation Rate Prediction**
+   - Predictive analysis of U.S. inflation rate using Long-Short Term Memory (LSTM) models.
+   
+4. **Revenue Mobilization in the Middle East and Central Asia**
+   - Assessment of tax capacity in MCD countries via stochastic tax frontier model.
+
+### Connect
+I welcome discussions on new projects, ideas, or collaborations. Contact me on [Twitter](link-to-twitter), [LinkedIn](link-to-linkedin), or via [Email](mailto:amarahel@iu.edu).
