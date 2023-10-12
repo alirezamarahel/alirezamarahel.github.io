@@ -12,9 +12,7 @@ redirect_from:
 
 
 
-Welcome to my website! I am an Economics Ph.D. candidate at Indiana University in BloomingtonBloomington, Indiana, where I am defending my dissertation and graduating in the spring of 2024. My research in applied econometrics, environmental economics, and machine learning combines theory with the use of quantitative methods and large data sets.
-
-<!--My name is Alireza Marahel and I am a PhD candidate in Economics at Indiana University Bloomington. I am expected to graduate with PhD degree in Economics during spring of 2024.-->
+Welcome to my website! My name is Alireza Marahel and I am a PhD candidate in Economics at Indiana University Bloomington. I am expected to graduate with PhD degree in Economics during spring of 2024.
 
 <!--[^1]: Please navigate using the top menubar. You can come back to this page by clicking **Alireza Marahel** icon at the top left corner.-->
 
