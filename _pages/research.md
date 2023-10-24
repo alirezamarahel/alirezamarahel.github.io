@@ -40,21 +40,6 @@ redirect_from:
 </details>
 <p></p>
 
-<p></p>
-
-<details>
-<summary markdown='span'> 
-<a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="display: run-in; finline-block; ont-weight: bold; text-decoration: underline; color: inherit;"
-    onmouseover="this.style.color='#69b0c5';"
-    onmouseout="this.style.color='#4a4e52';">
-    Navigating Carbon Border Adjustments: Quantifying the Tradeoffs of Unilateral Climate Policy</span> 
-</a> &emsp; <span style="font-style: italic;">(Draft coming soon!) </span> <br> 
-&#8202;
-
-</summary>
-
-</details>
 
 ## Working Papers
 
