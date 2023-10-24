@@ -17,6 +17,33 @@ redirect_from:
 
 <details>
 <summary markdown='span'> 
+<a href="/files/AlirezaMarahel_JMP.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
+  <span style="display: run-in; font-weight: bold; text-decoration: underline; color: inherit;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    Evaluating Alternative Designs for Carbon Border Adjustment Mechanisms
+  </span>
+</a>
+&#8202;
+<a href="/files/AlirezaMarahel_JMP.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/AlirezaMarahel_JMP.pdf';return false;">
+  <span style="display: inline-block; text-decoration: underline; color: #4a4e52;"
+    onmouseover="this.style.color='#69b0c5';"
+    onmouseout="this.style.color='#4a4e52';">
+    [Published version]
+  </span>
+</a> 
+<br> &emsp;with Fiscal Policy Group, Middle East and Central Asia Department, IMF 
+</summary>      
+
+<span style="font-style: italic; font-size: 98%;">This paper examines the Carbon Border Adjustment Mechanism (CBAM) as a potential tool to mitigate carbon leakage, with its design varying based on the inclusion of export subsidies and discrimination across trading partners. To this end, I adopt a quantitative multi-country, multi-industry trade model with climate externalities and abatement. I provide a novel theoretical decomposition of the welfare effects associated with carbon pricing in open economies, underscoring the incidence of the home country’s carbon tax on foreign residents as a vital welfare channel. The welfare decomposition reveals ambiguous welfare effects when export subsidies are incorporated in the CBAM, as they mitigate leakage but reduce the incidence of home’s carbon tax on foreign residents. The model is then mapped to data to evaluate these trade-offs quantitatively for the European Union. I found that non-discriminatory EU border adjustments lead to a Pareto improvement only if they exclude export subsidies, resulting in an 64.4% reduction in carbon leakage. On the other hand, discriminatory EU border adjustments are Pareto improving if they feature export subsidies in addition to import tariffs, resulting in reverse leakage and yielding a 76.8 million tonnes of global emission reduction outside the EU. These results provide a possible justification for the current design of the EU CBAM.</span>
+
+</details>
+<p></p>
+
+<p></p>
+
+<details>
+<summary markdown='span'> 
 <a href="/files/IMF_Presentation.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
   <span style="display: run-in; finline-block; ont-weight: bold; text-decoration: underline; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
