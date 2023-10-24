@@ -46,7 +46,7 @@ redirect_from:
 <p></p>
 <details>
 <summary markdown='span'>
-<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
+<a href="/files/Panel_Regression_with_Endogenous_Regime_Switching.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
   <span style="font-weight: bold; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
@@ -57,13 +57,13 @@ redirect_from:
 </a>
 <br> &emsp;with Yoosoon Chang and Joon Y. Park
 
-<!--<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
+-<a href="/files/Panel_Regression_with_Endogenous_Regime_Switching.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
   <span style="text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     [Draft]
   </span>
-</a>-->
+</a>
 </summary>
 
 
