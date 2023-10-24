@@ -18,7 +18,7 @@ redirect_from:
 <details>
 <summary markdown='span'> 
 <a href="/files/AlirezaMarahel_JMP.pdf" style="text-decoration: none; color: #4a4e52; font-weight: bold;">
-  <span style="display: run-in; font-weight: bold; text-decoration: underline; color: inherit;"
+  <span style="display: run-in; font-weight: bold; text-decoration: underline; color: inherit;font-size: 118%;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     Evaluating Alternative Designs for Carbon Border Adjustment Mechanisms
@@ -70,6 +70,7 @@ redirect_from:
     </span>
   </span>
 </a>
+<br> &emsp;with Yoosoon Chang and Joon Y. Park
 
 <!--<a href="/files/Panel_Regression_with_ERS.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
   <span style="text-decoration: underline; color: #4a4e52;"
@@ -85,6 +86,7 @@ redirect_from:
 
 </details>
 
+## Works in Progress
 
 <p></p>
 <details>
@@ -93,7 +95,7 @@ redirect_from:
   <span style="font-weight: bold; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
-    <span style="display: inline-block; text-decoration: underline;font-size: 118%;">
+    <span style="display: inline-block; text-decoration: underline;">
       On the Effectiveness of LSTM Models in Predicting Inflation Rates
     </span>
   </span>
