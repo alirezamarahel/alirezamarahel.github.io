@@ -55,15 +55,14 @@ redirect_from:
     </span>
   </span>
 </a>
-<br> &emsp;with Yoosoon Chang and Joon Y. Park
-
--<a href="/files/Panel_Regression_with_Endogenous_Regime_Switching.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
+<a href="/files/Panel_Regression_with_Endogenous_Regime_Switching.pdf" style="text-decoration: none; color: #4a4e52;" onclick="window.location.href='/files/Panel_Regression_with_ERS.pdf';return false;">
   <span style="text-decoration: underline; color: #4a4e52;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     [Draft]
   </span>
 </a>
+<br> &emsp;with Yoosoon Chang and Joon Y. Park
 </summary>
 
 
