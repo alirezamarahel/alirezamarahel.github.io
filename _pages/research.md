@@ -93,12 +93,14 @@ redirect_from:
   <span style="font-weight: bold; color: inherit;"
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
-    <span style="display: inline-block; text-decoration: underline;">
+    <span style="display: inline-block; text-decoration: underline;font-size: 118%;">
       On the Effectiveness of LSTM Models in Predicting Inflation Rates
     </span>
   </span>
 </a>
 </summary>
+
+<span style="font-style: italic; font-size: 98%;">This paper investigates tue Long-Short Term Memory (LSTM) neural networks for flexible nonlinear inflation forecasting as an alternative to traditional time series models like VARs that rely on restrictive assumptions. A key challenge with LSTMs is their sensitivity to initial values. In this paper, I develop LSTM architectures for predicting inflation and compare their performance against benchmarks like VARs, ARIMA, and random walk models. The goal of this paper is developing techniques to obtain near-optimal initial values for LSTMs to improve their predictive accuracy. The models is trained and tested on standard macroeconomic datasets with model selection and evaluation based on RMSE. Enhancing deep learning forecasts of inflation through refined LSTM initialization will provide an additional tool for policymakers. The insights on setting starting values for LSTMs can facilitate their adoption in other macroeconomic applications as well.</span>
 
 </details>
 
