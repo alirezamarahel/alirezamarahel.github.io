@@ -84,6 +84,7 @@ redirect_from:
     </span>
   </span>
 </a>
+<br> with Yoosoon Chang and Joon Y. Park
 </summary>
 
 <span style="font-size: 95%;margin-top: 20px; display: block;text-align: justify;">This paper investigates the Long-Short Term Memory (LSTM) neural networks for flexible nonlinear inflation forecasting as an alternative to traditional time series models like VARs that rely on restrictive assumptions. A key challenge with LSTMs is their sensitivity to initial values. In this paper, I develop LSTM architectures for predicting inflation and compare their performance against benchmarks like VARs, ARIMA, and random walk models. The goal of this paper is developing techniques to obtain near-optimal initial values for LSTMs to improve their predictive accuracy. The models is trained and tested on standard macroeconomic datasets with model selection and evaluation based on RMSE. Enhancing deep learning forecasts of inflation through refined LSTM initialization will provide an additional tool for policymakers. The insights on setting starting values for LSTMs can facilitate their adoption in other macroeconomic applications as well.</span>
