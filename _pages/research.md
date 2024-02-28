@@ -51,7 +51,7 @@ redirect_from:
     onmouseover="this.style.color='#69b0c5';"
     onmouseout="this.style.color='#4a4e52';">
     <span style="display: inline-block; text-decoration: underline;">
-      Panel Regression with Endogenous Regime Switching
+      Evaluating Asset Pricing Models Under Endogenous Regime Switching
     </span>
   </span>
 </a>
