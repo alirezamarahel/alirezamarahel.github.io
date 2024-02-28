@@ -16,7 +16,7 @@ Welcome to my website! My name is Alireza Marahel and I am a PhD candidate in Ec
 
 <!--[^1]: Please navigate using the top menubar. You can come back to this page by clicking **Alireza Marahel** icon at the top left corner.-->
 
-**Field of Interest:** Quantitative Economics, Climate Policy, Financial Econometrics, Machine Learning
+**Field of Interest:** Financial Econometrics, Machine Learning, Quantitative Economics, Climate Policy
 
 For my résumé, [click here](/files/AlirezaMarahel_Resume.pdf).
 
